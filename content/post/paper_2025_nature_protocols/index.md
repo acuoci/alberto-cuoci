@@ -45,7 +45,7 @@ categories:
 Mehl M., Pelucchi M., Pratali Maffei L., Stagni A., Cuoci A., Frassoldati A., Ranzi E., Faravelli T.   
 
 Developing chemical kinetic models for thermochemical applications    
-Combustion and Flame, 259, 113136 (2024)   
+Nature Protocols (2025)   
 DOI: [10.1038/s41596-025-01195-z](https://www.nature.com/articles/s41596-025-01195-z.epdf?sharing_token=oDyL9rqJ7wW-lm1go4i0wtRgN0jAjWel9jnR3ZoTv0MRPUeCi-_3J2ebpkuDX-30PfPSvMNg6cWLI9Gx6Bmw6CJuvfYDYZ90vjIML5y3NYfB22O-rVAQUIMu6ZW8zdmQLhX4ajbhGz2YR7hSzXq_2E1slY8EwCYnGBb9gRbozxw%3D)      
 </div>
 
@@ -65,5 +65,5 @@ Validation is a critical component of our methodology. We emphasize the importan
 
 Recognizing that computational efficiency is often as important as accuracy, we present systematic approaches for mechanism reduction. These include lumping techniques and flux or sensitivity analyses, which can be applied depending on the specific application requirements and computational constraints.
 
-While our procedures incorporate significant automation, we emphasize that expert knowledge remains crucial for optimal results. The development of reaction rate rules and identification of reaction pathways require critical analysis and benefit greatly from operator experience in chemical kinetics and thermochemical processes. Models developed following our rigorous framework demonstrate superior predictivity compared to mechanisms assembled from inconsistently sourced sub-mechanisms or those based on limited datasets. This enhanced reliability enables greater confidence when extrapolating fuel behavior beyond the specific conditions used for validation—a critical advantage for practical applications.
+While our procedures incorporate significant automation, we emphasize that expert knowledge remains crucial for optimal results. The development of reaction rate rules and identification of reaction pathways require critical analysis and benefit greatly from operator experience in chemical kinetics and thermochemical processes. Models developed following our rigorous framework demonstrate superior predictivity compared to mechanisms assembled from inconsistently sourced sub-mechanisms or those based on limited datasets. This enhanced reliability enables greater confidence when extrapolating fuel behavior beyond the specific conditions used for validation, a critical advantage for practical applications.
 Impact and Future Directions
